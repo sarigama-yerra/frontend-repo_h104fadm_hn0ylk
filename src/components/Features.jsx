@@ -1,4 +1,4 @@
-import { ShieldCheck, ChartBar, AlarmClock, Trees, Wifi, Building2 } from "lucide-react";
+import { ShieldCheck, BarChart3, AlarmClock, Trees, Wifi, Building2 } from "lucide-react";
 
 const features = [
   {
@@ -12,7 +12,7 @@ const features = [
     desc: "Provision, update, and monitor thousands of sensors without friction.",
   },
   {
-    icon: ChartBar,
+    icon: BarChart3,
     title: "Insights & Forecasts",
     desc: "AI-driven trends for utilization, comfort, and energy optimization.",
   },
